@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.0/res/xml/preferences.xml"
+    }
+]

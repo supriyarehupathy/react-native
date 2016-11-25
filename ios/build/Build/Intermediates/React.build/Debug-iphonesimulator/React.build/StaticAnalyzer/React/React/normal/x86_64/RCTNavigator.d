@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTNavigator.m \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTNavigator.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTScrollView.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTScrollableProtocol.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTView.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/node_modules/react-native/React/Views/UIView+React.h

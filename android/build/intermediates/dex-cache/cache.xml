@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c10949f61924af228a94598d4eb6dc1a42120e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_db4a0dfb3a9f7838c24bbcfebc3b586cb3062a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_1ea221bddab4438cdb0b3816f95388ecb9dafdf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_721f7729453608379cbcaa17a5039155cd5993cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_e5d1c17c2cef39c14ebd11b6318ded4b948345cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_2b02373113058ff46d06151e0cf92db1479cc6a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_4035c048eafdea7a13e9f0aa56f223b9007f53a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_3ee56af58bf6a657e35afe10e68b341f3041f1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_0f7a8fd07426c6be4ac1c296bdfb6a0f3348b9c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_fad1b6a8b126f0748c9db7873c43dec017853eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_bdb776206131930b479f3bd0c2b8dc96a7b480d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="556b9e3c9e1695ceb107102139dfe6346f4721c5">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_d6d2b32e3f100062fba400779f22bf9ae4dc2ea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_ae0c3e6537064345afd1baa58d0f0a438ff53843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_d5bb688859599ea295befdf2a8ace65886e18a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fde7c0ad7606dc25ae2c1fa11b8a48199ea3adc9">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.34.0_bdda8a182633476efc04ca3a2fa216a4e186dd49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_ba7b9f6a8ba9ea4d7f566b55e6216624e131e441.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_476bcfc3500fd08ecd8797049ecbcfe75220e365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_ed3b2557ca568753dcd95b98de72b477fb3fd002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_01bb5897b967a4aaec0d29b0427a94cec62e6251.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_52a2daf528f31ad4e13ac8231df8bd03257020af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_8ae1293a2be24aa47e650fb29b8a239d9b2c823b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_e32308005ed03d9ffda9481250e57642241973c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_071db07416cce6bd5ffee5bf757565c5eb4d417b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_2a9ddfb59c8564e34e4f9764e076b606aa71bc18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fde7c0ad7606dc25ae2c1fa11b8a48199ea3adc9">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.34.0_409240c9d7f831deb1490ee58c2c249943221de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_49f8f13eff33e30c372db5a46095e306d40c2476.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_848a44654368b95628b87b527aeca9230daa8f80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_2951705fb1b26e19f6cb63e088387ec92dd02abb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_5e078abd62451e178ff4b85bedee2633e2eb4170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_d0bb3f762e6acd8b0e11ee12922515bcf31b69a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_752c1ccc0c74fe7d79e1074ffe5365658ebf2282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d7d93fd091d4746b5e52659069beca53f435d7c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="556b9e3c9e1695ceb107102139dfe6346f4721c5">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_0a3d11497f4e39d45bf93d52b4ccb9669eca5c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/myRepo/react-native/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_a53744a36a0bf91ad033d568f55125b9f9de07e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_219aff43ada2cd4c27e76000efab381159d2c772.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/supriya/Documents/Projects/Seminar/RN/Counter/example-react-native-redux/Counter/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_958f2c9b0c2883954b6a6d463ce6142e4c8932b5.jar" />
+    </item>
+
+</items>
