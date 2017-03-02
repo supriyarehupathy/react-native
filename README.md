@@ -1,2 +1,2 @@
 # react-native
-A sample react native app 
+Basic react native architecture
