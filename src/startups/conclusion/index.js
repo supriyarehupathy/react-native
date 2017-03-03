@@ -12,7 +12,7 @@ import {
 } from 'react-native';
 import CommonStyles from '../../styles/styles';
 import Styles from './styles';
-import Header from '../components/header';
+import Header from '../../components/header/component';
 
 export default class Conclusion extends Component {
 

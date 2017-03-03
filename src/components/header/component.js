@@ -9,13 +9,13 @@ import {
   View,
   Alert
 } from 'react-native';
-import Conclusion from '../containers/conclusion';
+import Conclusion from '../../startups/conclusion/index';
 import CommonStyles from '../../styles/styles';
 import Styles from './styles';
 
 export default class Header extends Component {
   static propTypes = {
-    navigator: React.PropTypes.array
+    navigator: React.PropTypes.object
   }
   
   goBack = () => {

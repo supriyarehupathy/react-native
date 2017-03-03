@@ -17,7 +17,7 @@ import Styles from './styles';
 
 export default class Home extends Component {
   static propTypes = {
-    navigator: React.PropTypes.array
+    navigator: React.PropTypes.object
   }
 
   showCounter = () => {
@@ -31,7 +31,7 @@ export default class Home extends Component {
       <View style={[CommonStyles.background, Styles.background]}>
         <View style={Styles.content}>
           <Image
-            source={require('../assets/images/counter.png')}
+            source={require('../../assets/images/counter.png')}
           />
           <TouchableOpacity onPress={this.showCounter} style={Styles.button}>
             <Text style={[CommonStyles.textStyle, Styles.textStyle]}> Welcome to react native</Text>

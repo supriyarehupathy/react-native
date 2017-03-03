@@ -10,11 +10,11 @@ import {
   BackAndroid,
   StyleSheet
 } from 'react-native';
-import Home from './home';
+import Home from '../home/index';
 
 export default class SplashScreen extends Component {
   static propTypes = {
-    navigator: React.PropTypes.array
+    navigator: React.PropTypes.object
   }
 
   componentWillMount() {
@@ -30,7 +30,7 @@ export default class SplashScreen extends Component {
       <View style={styles.container}>
         <StatusBar hidden />
         <Image
-          source={require('../assets/images/splash.png')}
+          source={require('../../assets/images/splash.png')}
           style={styles.image}
         />
       </View>

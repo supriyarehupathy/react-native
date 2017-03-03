@@ -7,10 +7,10 @@ import {
   StyleSheet,
   View
 } from 'react-native';
-import {BindActionCreators} from 'redux';
-import Counter from '../../components/counter';
-import Header from '../components/header';
-import * as CounterActions from '../actions/counterActions';
+import {bindActionCreators} from 'redux';
+import Counter from '../../components/counter/component';
+import Header from '../../components/header/component';
+import * as CounterActions from '../../store/actions/counterActions';
 import {
   connect
 } from 'react-redux';
@@ -32,6 +32,6 @@ export default connect(state => ({
     state: state.counter
   }),
   (dispatch) => ({
-    actions: BindActionCreators(CounterActions, dispatch)
+    actions: bindActionCreators(CounterActions, dispatch)
   })
 )(CounterApp);

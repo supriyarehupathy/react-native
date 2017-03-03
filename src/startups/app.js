@@ -2,9 +2,9 @@ import React, {
   Component
 } from 'react';
 import {
-  CreateStore,
-  ApplyMiddleware,
-  CombineReducers
+  createStore,
+  applyMiddleware,
+  combineReducers
 } from 'redux';
 
 import {
@@ -26,8 +26,8 @@ import Home from './home/index';
 import SplashScreen from './splashScreen/index';
 import Conclusion from './conclusion/index';
 
-const createStoreWithMiddleware = ApplyMiddleware(Thunk)(CreateStore);
-const reducer = CombineReducers(reducers);
+const createStoreWithMiddleware = applyMiddleware(Thunk)(createStore);
+const reducer = combineReducers(reducers);
 const store = createStoreWithMiddleware(reducer);
 
 export default class App extends Component {
